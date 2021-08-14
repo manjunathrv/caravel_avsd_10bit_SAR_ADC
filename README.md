@@ -100,17 +100,67 @@ The 10bit ADC target specification are mentioned in the below table[1], </br>
 
 ## 4-Bit DAC
 
+   <p align="center">
+   <img src="/docs/Images/4-Bit_DAC.PNG" width="60%" height="60%">
+   </p>
+
+   </p>
+   
+   <p align="center">
+   <img src="/docs/Images/4-Bit_DAC_1.PNG" width="60%" height="60%">
+   </p>
+
+   </p>
+
 # Integrating DAC with SAR Controller
 ## 4-bit DAC and SAR 
 
+   <p align="center">
+   <img src="/docs/Images/4-Bit_DAC_SAR.PNG" width="60%" height="60%">
+   </p>
+
+   </p>
+   
+   <p align="center">
+   <img src="/docs/Images/4-Bit_DAC_SAR_1.PNG" width="60%" height="60%">
+   </p>
+
+   </p>
+
+
 # Integrating DAC and Comparator with SAR Controller
 ## 4-bit DAC, Comparator and SAR 
+   <p align="center">
+   <img src="/docs/Images/4-Bit_DAC_SAR_CMP_1.PNG" width="60%" height="60%">
+   </p>
+
+   </p>
+   
+   <p align="center">
+   <img src="/docs/Images/4-Bit_DAC_SAR_CMP_2.PNG" width="60%" height="60%">
+   </p>
+
+   </p>
+
+
 
 ## 10-bit DAC, Comparator and SAR 
 
+   <p align="center">
+   <img src="/docs/Images/10-Bit_DAC_SAR_CMP_1.PNG" width="60%" height="60%">
+   </p>
+
+   </p>
+   
+   <p align="center">
+   <img src="/docs/Images/10-Bit_DAC_SAR_CMP_2.PNG" width="60%" height="60%">
+   </p>
+
+   </p>
+
+
 
 # References
-[1] 
 
 
 
