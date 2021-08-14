@@ -7,6 +7,7 @@ Table of contents
 <!--ts-->
    * [Project Description](https://github.com/manjunathrv/VSD_Low_power_Design_using_Sky130nm_PDK#day-1)   
    * [Specification](https://github.com/manjunathrv/VSD_Low_power_Design_using_Sky130nm_PDK#day-2)
+   * [Specification](https://github.com/manjunathrv/VSD_Low_power_Design_using_Sky130nm_PDK#day-2)
    * [References](https://github.com/manjunathrv/VSD_Low_power_Design_using_Sky130nm_PDK#day-2)
 <!--te-->
 
@@ -43,6 +44,69 @@ The 10bit ADC target specification are mentioned in the below table[1], </br>
 | INL | Integral Non-Linearity |- | -| +/-1.5 | LSB | Temp = 25 degC|
 | DNL | Differential Non-Linearity | - | - | +/-1.5 | LSB | Temp = 25 degC|
 | TCONV | Conversion Time | - |- | 12 | Clock Cycles | Temp = 27 degC|
+
+
+# Successive Approximation Register and logic controller 
+
+## 2-Bit SAR
+   <p align="center">
+   <img src="/docs/Images/2-Bit_SAR.PNG" width="60%" height="60%">
+   </p>
+
+   </p>
+   
+   <p align="center">
+   <img src="/docs/Images/2-Bit_SAR_1.PNG" width="60%" height="60%">
+   </p>
+
+   </p>
+   
+   <p align="center">
+   <img src="/docs/Images/2-Bit_SAR_2.PNG" width="60%" height="60%">
+   </p>
+
+   </p>
+
+## 8-Bit SAR
+
+   <p align="center">
+   <img src="/docs/Images/8-Bit_SAR.PNG" width="60%" height="60%">
+   </p>
+
+   </p>
+   
+   <p align="center">
+   <img src="/docs/Images/8-Bit_SAR_1.PNG" width="60%" height="60%">
+   </p>
+
+   </p>
+
+## 10-Bit SAR
+
+   <p align="center">
+   <img src="/docs/Images/10-Bit_SAR.PNG" width="60%" height="60%">
+   </p>
+
+   </p>
+   
+   <p align="center">
+   <img src="/docs/Images/10-Bit_SAR_1.PNG" width="60%" height="60%">
+   </p>
+
+   </p>
+
+
+# Digital to Analog Converter 
+
+## 4-Bit DAC
+
+# Integrating DAC with SAR Controller
+## 4-bit DAC and SAR 
+
+# Integrating DAC and Comparator with SAR Controller
+## 4-bit DAC, Comparator and SAR 
+
+## 10-bit DAC, Comparator and SAR 
 
 
 # References
