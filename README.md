@@ -10,7 +10,7 @@ The main blocks of the SAR ADC are, sample and hold (S/H), comparator, Digital t
 .. raw:: html
 
    <p align="center">
-   <img src="/docs/images/SAR_Block_diagram.png" width="50%" height="50%">
+   <img src="/docs/Images/SAR_Block_diagram.png" width="50%" height="50%">
    </p>
 
 .. raw:: html
