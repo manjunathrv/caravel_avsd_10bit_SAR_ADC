@@ -34,7 +34,7 @@ The comparator continues to compare the input analog signal until the output con
 The 10bit ADC target specification are mentioned in the below table[1], </br>
 
 | Parameter  | Description  | Min | Max | Typ | Unit | Conditions |
-|----- |-----|-----|
+|----- |-----|-----| ---- |-----|-----|-----|
 | VDDA | Analog Supply Voltage | 0 | 3.3 | 3.3 | V | Temp = -40 degC to 125 degC|
 | VDD  | Digital Supply Voltage | 0 | 1.8 | 1.8 | V | Temp = -40 degC to 125 degC|
 | VREFH | Reference Voltage High | 0 | 3.3 | 0 | V | Temp = -40 degC to 125 degC|
