@@ -7,6 +7,17 @@ Table of contents
 <!--ts-->
    * [Project Description](https://github.com/manjunathrv/VSD_Low_power_Design_using_Sky130nm_PDK#day-1)   
    * [Specification](https://github.com/manjunathrv/VSD_Low_power_Design_using_Sky130nm_PDK#day-2)
+   * [Successive Approximation Register and logic controller](https://github.com/manjunathrv/VSD_Low_power_Design_using_Sky130nm_PDK#day-2)
+      * [2-Bit SAR](https://github.com/manjunathrv/VSD_Low_power_Design_using_Sky130nm_PDK#introduction-to-low-power-design)
+      * [8-Bit SAR](https://github.com/manjunathrv/VSD_Low_power_Design_using_Sky130nm_PDK#background)
+      * [10-Bit SAR](https://github.com/manjunathrv/VSD_Low_power_Design_using_Sky130nm_PDK#background)
+   * [Digital to Analog Converter](https://github.com/manjunathrv/VSD_Low_power_Design_using_Sky130nm_PDK#day-2)
+      * [4-Bit DAC](https://github.com/manjunathrv/VSD_Low_power_Design_using_Sky130nm_PDK#introduction-to-low-power-design)   
+   * [Integrating DAC with SAR Controller](https://github.com/manjunathrv/VSD_Low_power_Design_using_Sky130nm_PDK#day-2)
+      * [4-bit DAC and SAR](https://github.com/manjunathrv/VSD_Low_power_Design_using_Sky130nm_PDK#introduction-to-low-power-design)   
+   * [Integrating DAC and Comparator with SAR Controller](https://github.com/manjunathrv/VSD_Low_power_Design_using_Sky130nm_PDK#day-2)
+      * [4-bit DAC, Comparator and SAR](https://github.com/manjunathrv/VSD_Low_power_Design_using_Sky130nm_PDK#introduction-to-low-power-design)
+      * [10-bit DAC, Comparator and SAR](https://github.com/manjunathrv/VSD_Low_power_Design_using_Sky130nm_PDK#introduction-to-low-power-design)   
    * [Specification](https://github.com/manjunathrv/VSD_Low_power_Design_using_Sky130nm_PDK#day-2)
    * [References](https://github.com/manjunathrv/VSD_Low_power_Design_using_Sky130nm_PDK#day-2)
 <!--te-->
