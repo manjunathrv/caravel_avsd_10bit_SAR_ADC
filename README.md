@@ -10,7 +10,7 @@ A block diagram of the 10-bit SAR ADC architecture used in this work is shown be
 The main blocks of the SAR ADC are, sample and hold (S/H), comparator, Digital to Analog Converter(DAC), SAR and a logic controller. 
 
    <p align="center">
-   <img src="/docs/Images/SAR_Block_diagram.png" width="50%" height="50%">
+   <img src="/docs/Images/SAR_Block_diagram.png" width="80%" height="80%">
    </p>
 
    </p>
