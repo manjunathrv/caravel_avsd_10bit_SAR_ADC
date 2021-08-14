@@ -7,7 +7,6 @@
 In this work, the design and implementation of a 10-bit Successive Approximation Register(SAR) Analog to Digital Converter using Skywater 130nm CMOS is presented. </br>
 
 A block diagram of the 10-bit SAR ADC architecture used in this work is shown below.
-The main blocks of the SAR ADC are, sample and hold (S/H), comparator, Digital to Analog Converter(DAC), SAR and a logic controller. 
 
    <p align="center">
    <img src="/docs/Images/SAR_Block_diagram.png" width="80%" height="80%">
@@ -15,6 +14,11 @@ The main blocks of the SAR ADC are, sample and hold (S/H), comparator, Digital t
 
    </p>
 
+The main blocks of the SAR ADC are, sample and hold (S/H), comparator, Digital to Analog Converter(DAC), SAR and a logic controller. 
+During the first clock cycle obtained from the timing controller, the analog input is sampled. 
+The sampled output is compared with the half of the reference voltage (Vref/2) obtained from the DAC block to form the first MSB. 
+Based on the output obtained from the comparator, the SAR logic block will set the input bits of the DAC to generate the relevant reference signal for the next comparison process.
+The comparator continues to compare the input analog signal until the output converges to resolve the last bit.
 
 
 
