@@ -171,6 +171,19 @@ The 10bit ADC target specification are mentioned in the below table[1], </br>
 
 
 
+# Layout design 
+## Comparator
+   <p align="center">
+   <img src="/docs/Images/Comparator.PNG" width="60%" height="60%">
+   </p>
+   
+## SAR
+   <p align="center">
+   <img src="/docs/Images/SAR_Controller.PNG" width="60%" height="60%">
+   </p>
+
+
+
 # References
 
 
